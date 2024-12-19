@@ -17,7 +17,7 @@ header {
 .container {
     max-width: 800px;
     margin: 2rem auto;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
     padding: 1rem;
     background: white;
     border-radius: 8px;
@@ -27,6 +27,11 @@ header {
 h1 {
     text-align: center;
     color: #ffffff;
+}
+
+div > h1 {
+    text-align: center;
+    color: #000000;
 }
 
 h2 {
